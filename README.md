@@ -1,9 +1,7 @@
 # cevir
 
-#Python lower ve upper string fonksiyonlarına zaten sahiptir. Fakat Python 3.12 versiyonuna gelmiş olmasına rağmen
-#hala lower ve upper fonksiyonları utf-8 mantığıyla değil ascii mantığıyla çalışmakta ve harf dönüşümleri Türkçe için
-#hatalı olabilmektedir. Bu paket ise bu derdi ortadan kaldırmaya yöneliktir.
-##Bu python paketi şu şekilde kullanılır:
+Python lower ve upper string fonksiyonlarına zaten sahiptir. Fakat Python 3.12 versiyonuna gelmiş olmasına rağmen hala lower ve upper fonksiyonları utf-8 mantığıyla değil ascii mantığıyla çalışmakta ve harf dönüşümleri Türkçe için hatalı olabilmektedir. Bu paket ise bu derdi ortadan kaldırmaya yöneliktir.
+Bu python paketi şu şekilde kullanılır:
 
 import cevir
 
